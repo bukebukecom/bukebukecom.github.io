@@ -1,2 +1,1 @@
-根据MIT License 修改自 [Tim O'Brien](https://github.com/t413/SinglePaged)  添加google analytics 和多说
-我们是一个初创企业，如有任何合作融资问题请联系 question@bukebuke.com
+根据MIT License 修改自 [Tim O'Brien](https://github.com/t413/SinglePaged)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们是一个初创企业，如有任何合作融资问题请联系 question@bukebuke.com
